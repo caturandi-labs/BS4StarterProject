@@ -8,7 +8,7 @@
 
 ## Cara Penggunaan BS4StarterProject
 
-1. Clone Project dari repo berikut ``
+1. Clone Project / Download dari Repository berikut `https://github.com/caturandi-labs/BS4StarterProject.git`
 2. Buka Terminal/Command Prompt ketikan `npm install` , diasumsikan sudah menginstall `NodeJS` pada komputer anda.
 3. Untuk menambah custom `css` dan `js` silahkan ubah file `gulpfile.js` dan sesuaikan dengan kebutuhan anda.
 4. Fokus ke directory `src/` dan buat halaman web `*.html` pada folder ini.
