@@ -8,12 +8,12 @@
 
 ## Cara Penggunaan BS4StarterProject
 
-1.Clone Project dari repo berikut ``
-2.Buka Terminal/Command Prompt ketikan `npm install` , diasumsikan sudah menginstall `NodeJS` pada komputer anda.
-3.Untuk menambah custom `css` dan `js` silahkan ubah file `gulpfile.js` dan sesuaikan dengan kebutuhan anda.
-4.Fokus ke directory `src/` dan buat halaman web `*.html` pada folder ini.
-5.Sudah terintegrasi dengan `browserSync` sehingga halaman pada broswer akan otomatis ter-reload ketika terjadi perubahan pada kode file `.html`.
-6.untuk menjalankan proyek, anda dapat menggunakan perintah `npm start` pada terminal/prompt anda.
+1. Clone Project dari repo berikut ``
+2. Buka Terminal/Command Prompt ketikan `npm install` , diasumsikan sudah menginstall `NodeJS` pada komputer anda.
+3. Untuk menambah custom `css` dan `js` silahkan ubah file `gulpfile.js` dan sesuaikan dengan kebutuhan anda.
+4. Fokus ke directory `src/` dan buat halaman web `*.html` pada folder ini.
+5. Sudah terintegrasi dengan `browserSync` sehingga halaman pada broswer akan otomatis ter-reload ketika terjadi perubahan pada kode file `.html`.
+6. untuk menjalankan proyek, anda dapat menggunakan perintah `npm start` pada terminal/prompt anda.
 
 ### Screenshoot Proyek
 ![SS 2](https://github.com/caturandi-labs/BS4StarterProject/blob/master/ss/ss.PNG "Page Preview Success")
